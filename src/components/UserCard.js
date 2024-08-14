@@ -1,5 +1,3 @@
-
-
 function UserCard({user}) {
   return (
     <article>
